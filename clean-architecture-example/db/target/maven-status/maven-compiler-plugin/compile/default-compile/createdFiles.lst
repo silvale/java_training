@@ -1,0 +1,4 @@
+com\huongdanjava\cleanarchitecture\db\StudentRepostitory.class
+com\huongdanjava\cleanarchitecture\db\mapper\StudentMapper.class
+com\huongdanjava\cleanarchitecture\db\StudentAdapterImpl.class
+com\huongdanjava\cleanarchitecture\db\model\StudentModel.class
